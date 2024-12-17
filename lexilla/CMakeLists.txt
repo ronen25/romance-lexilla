@@ -88,7 +88,6 @@ add_library(lexilla
     lexers/LexMySQL.cxx
     lexers/LexNim.cxx
     lexers/LexNimrod.cxx
-    lexers/LexNix.cxx
     lexers/LexNsis.cxx
     lexers/LexNull.cxx
     lexers/LexOpal.cxx
